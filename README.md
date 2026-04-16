@@ -13,7 +13,7 @@ BOM:
 * Power: 6 pics 1.5 V AA battaries (LEGO battareis box)
 
 Robot images:
-![Front View](pictures\front.jpg "Front View"){width=10 height=10}
-![Left View](pictures\left.jpg "Left View"){width=10 height=10}
-![Right View](pictures\right.jpg "Right View"){width=10 height=10}
-![Bottom View](pictures\botton.jpg "Bottom View"){width=10 height=10}d
+![Front View](.pictures\front.jpg "Front View"){width=10 height=10}
+![Left View](.pictures\left.jpg "Left View"){width=10 height=10}
+![Right View](.pictures\right.jpg "Right View"){width=10 height=10}
+![Bottom View](.pictures\botton.jpg "Bottom View"){width=10 height=10}d
